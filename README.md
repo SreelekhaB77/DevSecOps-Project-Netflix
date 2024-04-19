@@ -367,6 +367,7 @@ sudo systemctl restart jenkins
 **Security Group** :- customTCP-  9090-  Anywhere-  prometheus
 
 **Security Group** :- customTCP-  9100-  Anywhere-  node-exporter
+**Security Group** :- customTCP-  3000-  Anywhere-  graphana
 
 1. **Install Prometheus and Grafana:**
 
