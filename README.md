@@ -363,6 +363,7 @@ sudo systemctl restart jenkins
 ```
 
 **Phase 4: Monitoring**
+-------------------------------------------------------
 **Security Group** :- customTCP-  9090-  Anywhere-  prometheus
 
 **Security Group** :- customTCP-  9100-  Anywhere-  node-exporter
